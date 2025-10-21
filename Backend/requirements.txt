@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+supabase
+langchain
+langchain-google-genai
+python-dotenv

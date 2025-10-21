@@ -1,0 +1,11 @@
+jupyter
+numpy
+pandas
+opencv-python
+torch
+torchaudio
+transformers
+huggingface_hub
+librosa
+mediapipe
+scikit-learn
